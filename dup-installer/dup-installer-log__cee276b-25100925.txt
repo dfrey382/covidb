@@ -1,0 +1,66 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 11:38:55
+* VERSION: 1.3.38
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.4.7                                 |7.4.7
+OS__________________: WINNT                                 |WINNT
+CREATED_____________: 2020-09-25 10:09:25
+WP VERSION__________: 5.5.1
+DUP VERSION_________: 1.3.38
+DB__________________: 5.7.24
+DB TABLES___________: 60
+DB ROWS_____________: 24,525
+DB FILE SIZE________: 14.23MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.7 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: nginx/1.16.0
+DOC ROOT____________: "C:/laragon/www/brian"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://brian.192.168.0.106.nip.io/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/laragon/www/brian/20200925_afrikazi_[HASH]_20200925100925_archive.zip"
+SIZE________________: 107.98MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/laragon/www/brian/20200925_afrikazi_[HASH]_20200925100925_archive.zip"
+SIZE________________: 107.98MBFile timestamp set to Current: 2020-09-28 11:39:08
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 11:39:08 - RUNTIME: 13.3278 sec.
